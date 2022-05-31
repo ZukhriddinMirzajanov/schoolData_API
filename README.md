@@ -1,4 +1,4 @@
-Source code of schoolData API
+Source code of schoolData_API
 =============================
 
 ## General info
